@@ -1,0 +1,7 @@
+PHP 5.5.4 (cli) (built: Oct 17 2013 12:40:41) 
+Copyright (c) 1997-2013 The PHP Group
+Zend Engine v2.5.0, Copyright (c) 1998-2013 Zend Technologies
+mysql  Ver 14.14 Distrib 5.6.12, for Linux (x86_64) using  EditLine wrapper
+redis-cli 2.6.13
+memcached 1.4.17
+nginx version: nginx/1.2.6
